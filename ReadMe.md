@@ -1,4 +1,4 @@
-# 💫 Katike Rohit Reddy
+# 💫 About Me
 
 I'm a **B.Tech Computer Science student (Class of 2027)** at Keshav Memorial Institute of Technology, passionate about building scalable software solutions and innovative AI-driven applications. Currently, I'm a **Full Stack Developer Intern at RedString**, contributing to their MVP with modular architecture and responsive UI. I thrive in fast-paced environments, solving complex problems with Java, C++, Python, and modern web technologies.
 
