@@ -1,44 +1,160 @@
-# 💫 About Me
+<!-- Profile Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hi%20there!%20I'm%20Rohit%20Reddy%20🚀&fontSize=38&fontColor=ffffff&animation=fadeIn" alt="Dark Banner" />
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00E8FC&center=true&vCenter=true&width=600&lines=Intern+%40+RedString+%7C+Full+Stack+%26+AI+Dev;SIH+2024+Finalist+%7C+B.Tech+CS+'27+%40+KMIT" alt="Typing SVG" />
+</p>
 
-I'm a **B.Tech Computer Science student (Class of 2027)** at Keshav Memorial Institute of Technology, passionate about building scalable software solutions and innovative AI-driven applications. Currently, I'm a **Full Stack Developer Intern at RedString**, contributing to their MVP with modular architecture and responsive UI. I thrive in fast-paced environments, solving complex problems with Java, C++, Python, and modern web technologies.
 
-🔭 **Working on**: AI-powered tools and IoT systems to simplify daily life.  
-🌱 **Learning**: MERN stack, advanced AI models, and cloud deployment.  
-🏆 **Achievements**: Finalist in Smart India Hackathon 2024, 7th in National Hackathon @ BITS Hyderabad.  
-📍 **Based in**: Hyderabad, India
+<br/>
 
-## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohitreddyk/) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_rohit_755)
-
-## 💻 Tech Stack
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Node.js](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-
-## 🚀 Featured Projects
-- **[InterviewProAI](https://interviewproai.vercel.app)**  
-  An AI-powered platform for generating interview questions from resumes and job descriptions. Built with **React.js**, **FastAPI**, and **LLaMA 3.3 70B** via Groq API, achieving **95% accuracy** in resume parsing. Deployed on Vercel and Railway with **99.9% uptime**.  
-  *Technologies*: JavaScript, Python, React.js, FastAPI, MongoDB.
-
-- **[PocketLLM](https://github.com/PocketLLM6/pocketllmapp)**  
-  A privacy-first offline AI assistant for voice and text interactions, supporting calls, SMS, calendar events, and alarms. Built with **Kotlin**, **Jetpack Compose**, and **C++** (llama.cpp), with a **RAG pipeline** using **SQLite** for **85% accurate** responses.  
-  *Technologies*: Kotlin, C++, SQLite, Jetpack Compose.
-
-- **[Echo-Ease](https://github.com/snehitha2205/Echoease-Project)**  
-  An IoT-based smart home automation system with voice and phone control. Trained a **TinyML model** with **Edge Impulse** for **81% accurate** voice recognition, integrated with **ESP32 microcontrollers**.  
-  *Technologies*: C++, Arduino, Python, Edge Impulse.
-
-## 🏆 Achievements
-- **Finalist, Smart India Hackathon 2024**: Built an AI-driven social media data parsing solution, reducing manual workload by **75%** using **Selenium**, **FastAPI**, and **ReportLab**.
-- **7th Place, National Hackathon @ BITS Hyderabad**: Developed a CNN-based medical diagnostic tool for detecting cancer, tumors, and pneumonia.
-
-## 📊 GitHub Stats
-![Rohit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=K-Rohit-Reddy&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=K-Rohit-Reddy&layout=compact&theme=radical)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<div align="center">
+  <a href="https://www.linkedin.com/in/rohitreddyk/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://instagram.com/_rohit_755">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=K-Rohit-Reddy&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## 💫 About Me
+<div align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300" />
+</div>
+
+
+
+- 🎓 **B.Tech Computer Science (Class of 2027)** at Keshav Memorial Institute of Technology.
+- 👨🏻‍💻 **Full Stack Developer Intern @ RedString** — building MVPs with modular architectures and responsive UIs.
+- 🧠 Thrive in fast-paced environments solving real-world problems with Java, C++, Python, and MERN stack.
+
+---
+
+<div align="center">
+  <table>
+    <tr>
+      <th>🔭 Working on</th>
+      <th>🌱 Learning</th>
+      <th>🏆 Achievements</th>
+      <th>📍 Based in</th>
+    </tr>
+    <tr>
+      <td>AI-powered tools & IoT systems</td>
+      <td>MERN stack, advanced AI models, cloud deployment</td>
+      <td>Finalist - Smart India Hackathon 2024<br>7th - National Hackathon @ BITS Hyderabad</td>
+      <td>Hyderabad, India</td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 💻 Tech Stack
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54" alt="Python"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white" alt="Kotlin"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white" alt="SQLite"/>
+  <img src="https://img.shields.io/badge/Git-F05033?style=flat&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white" alt="Arduino"/>
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h4><a href="https://interviewproai.vercel.app">InterviewProAI</a></h4>
+      <p>
+        <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat&logo=react&logoColor=black" alt="React.js"/>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" alt="FastAPI"/>
+        <img src="https://img.shields.io/badge/LLaMA3.3_70B-FF61F6?style=flat" alt="LLaMA3.3"/>
+      </p>
+      <ul>
+        <li>AI-powered platform for generating interview questions from resumes and JDs.</li>
+        <li>Built with <b>React.js</b>, <b>FastAPI</b>, <b>LLaMA 3.3 70B</b> via Groq API.</li>
+        <li>Achieved <b>95% accuracy</b> in resume parsing. Deployed on Vercel & Railway with <b>99.9% uptime</b>.</li>
+      </ul>
+    </td>
+    <td width="50%">
+      <h4><a href="https://github.com/PocketLLM6/pocketllmapp">PocketLLM</a></h4>
+      <p>
+        <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white" alt="Kotlin"/>
+        <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++"/>
+        <img src="https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white" alt="SQLite"/>
+      </p>
+      <ul>
+        <li>Privacy-first offline AI assistant for voice/text, supports calls, SMS, calendar & alarms.</li>
+        <li>Built with <b>Kotlin</b>, <b>Jetpack Compose</b>, <b>C++ (llama.cpp)</b>. RAG pipeline with SQLite.</li>
+        <li><b>85% accurate</b> response rate.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h4><a href="https://github.com/snehitha2205/Echoease-Project">Echo-Ease</a></h4>
+      <p>
+        <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white" alt="Arduino"/>
+        <img src="https://img.shields.io/badge/Edge_Impulse-000000?style=flat&logo=edgeimpulse&logoColor=white" alt="Edge Impulse"/>
+      </p>
+      <ul>
+        <li>IoT-based smart home automation, voice & phone controlled.</li>
+        <li><b>TinyML model</b> trained with Edge Impulse, integrated with ESP32.</li>
+        <li><b>81% accuracy</b> in voice recognition.</li>
+      </ul>
+    </td>
+    <td width="50%">
+      <h4>More on my <a href="https://github.com/K-Rohit-Reddy?tab=repositories">GitHub</a>!</h4>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🏆 Achievements
+
+- 🥇 **Finalist, Smart India Hackathon 2024**  
+  _AI-driven social media data parsing solution. Reduced manual workload by **75%** using Selenium, FastAPI, ReportLab._
+- 🥈 **7th Place, National Hackathon @ BITS Hyderabad**  
+  _CNN-based medical diagnostic tool for cancer, tumor, and pneumonia detection._
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=K-Rohit-Reddy&show_icons=true&theme=tokyonight&border_radius=10&border_color=6dd5ed" width="49%" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=K-Rohit-Reddy&layout=compact&theme=tokyonight&border_radius=10&border_color=6dd5ed" width="42%" alt="Top Languages"/>
+</p>
+<br/>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=K-Rohit-Reddy&theme=tokyo-night&area=true&hide_border=true"/>
+</p>
+
+---
+
+## ✍️ Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
+</p>
+
+---
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
