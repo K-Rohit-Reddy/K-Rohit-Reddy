@@ -1,7 +1,8 @@
 <!-- Profile Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hi%20there!%20I'm%20Rohit%20Reddy%20🚀&fontSize=38&fontColor=ffffff&animation=fadeIn" alt="Dark Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:00E8FC&height=200&section=header&text=Hi%20there!%20I'm%20Rohit%20Reddy%20🚀&fontSize=38&fontColor=ffffff&animation=fadeIn" alt="Dark Banner" />
 </p>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00E8FC&center=true&vCenter=true&width=600&lines=Intern+%40+RedString+%7C+Full+Stack+%26+AI+Dev;SIH+2024+Finalist+%7C+B.Tech+CS+'27+%40+KMIT" alt="Typing SVG" />
 </p>
